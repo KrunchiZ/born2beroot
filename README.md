@@ -1,7 +1,7 @@
 # born2beroot
 A project learning how to setup a VM using Oracle VirtualBox.
 
-Subject Doc: [click here](https://github.com/KrunchiZ/born2beroot/blob/d0fc4afb641d83e1c5014efa7e893cc895d6da14/en.subject.pdf"born2beroot pdf")
+Subject Doc: [click here](en.subject.pdf "Born2beRoot PDF")
 
 | OS | Debian 6.1.140-1 |
 
