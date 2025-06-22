@@ -20,6 +20,8 @@ I made a bash script that display system info every 10 minutes and a localhost W
 
 - *Linux Debian 6.1.140-1*
 
+[`back to top`](#born2beroot)
+
 ### Some of the Tools I used in this project
 
 | **Commands / Tools**       | **What for**                    |
@@ -52,6 +54,8 @@ I made a bash script that display system info every 10 minutes and a localhost W
 | *lighttpd / mariadb / php* | Wordpress                       |
 | *cron / crontab*           | Set timer to commands / script  |
 
+[`back to top`](#born2beroot)
+
 ### Extra Services
 
 - *NetData*
@@ -63,4 +67,4 @@ I made a bash script that display system info every 10 minutes and a localhost W
 - [Chlimous's guide](https://github.com/chlimous/42-born2beroot_guide)
 - [FurizAlex's guide](https://github.com/FurizAlex/B2BR-Guide)
 
-[(back to top)](#born2beroot)
+[`back to top`](#born2beroot)
