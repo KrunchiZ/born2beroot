@@ -1,5 +1,8 @@
 # Born2beRoot
-A project learning how to setup a VM using Oracle VirtualBox.
+In this project, I was required to setup a VM using Oracle VirtualBox.
+I have learnt about the file system in a Linux OS, how to manually create partitions and encrypted logical volumes,
+as well as setting up SecureShell(SSH) and Uncomplicated Firewall(UFW) using port forwarding.
+I made a bash script that display system info every 10 minutes and a localhost Wordpress.
 
 ## Table Content
 
@@ -48,7 +51,8 @@ A project learning how to setup a VM using Oracle VirtualBox.
 | hostnamectl              | Manage hostname                 |
 | adduser / addgroup       | Add new user / group            |
 | deluser / delgroup       | Delete new user / group         |
-| lighttpd / mariadb / php | Wordpress
+| lighttpd / mariadb / php | Wordpress                       |
+| cron / crontab           | Set timer to commands / script  |
 
 ### Extra Services
 - NetData
