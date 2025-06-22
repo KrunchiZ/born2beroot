@@ -19,7 +19,8 @@ Shoutout to Chlimous and FurizAlex for the guides.
 My advice for whoever that's trying to do this project following the guides, please do yourselves a favor by reading the manual/doc of the tools used.
 Try to understand the process instead of following blindly. I chose to do manual partitioning and wrote my own monitoring.sh and they are worth it.
 
-**RTFM** There are different ways to achieve the result required by the subject and you might prefer one over the other. Don't forget to ask your peers!
+**RTFM**.
+There are different ways to achieve the result required by the subject and you might prefer one over the other. Don't forget to ask your peers!
 
 ### Hypervisor
 
