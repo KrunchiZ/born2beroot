@@ -30,12 +30,12 @@ boot_time=$(who -b | awk '{printf("%s %s", $3, $4)}')
 # LVM status
 lvm_count=$(lsblk | grep lvm | wc -l)
 lvm_status=$(
-	if [[ "lvm_count" != 0 ]]
-	then
-		echo TRUE
-	else
-		echo FALSE
-	fi
+        if [[ "lvm_count" != 0 ]]
+        then
+                echo TRUE
+        else
+                echo FALSE
+        fi
 )
 
 # Active TCP Connections
@@ -52,17 +52,17 @@ ipv4=$(ip address | grep enp | grep inet | awk '{printf("%s", $2)}' | cut --deli
 sudo_count=$(echo "-ibase=36; $(cat /var/log/sudo/seq)" | bc)
 
 # Broadcast message
-wall "# Architecture		: $architecture
-# Physical CPU (pCPU)	: $pcpu
-# Virtual CPU (vCPU)	: $vcpu
-# Memory Usage (RAM)	: $used_mem / $total_mem ($mem_usage_rate)
-# Disk Usage		: $used_disk / $total_disk ($disk_usage_rate)
-# CPU Utilization	: $cpu_load
-# Last Boot Time	: $boot_time
-# LVM Used		: $lvm_status
-# Connections TCP	: $active_tcp ESTABLISHED
-# Active Users		: $active_user_count
-# Network		: IPv4 $ipv4 ($mac)
-# Sudo Count		: $sudo_count cmd
+wall "# Architecture            : $architecture
+# Physical CPU (pCPU)   : $pcpu
+# Virtual CPU (vCPU)    : $vcpu
+# Memory Usage (RAM)    : $used_mem / $total_mem ($mem_usage_rate)
+# Disk Usage            : $used_disk / $total_disk ($disk_usage_rate)
+# CPU Utilization       : $cpu_load
+# Last Boot Time        : $boot_time
+# LVM Used              : $lvm_status
+# Connections TCP       : $active_tcp ESTABLISHED
+# Active Users          : $active_user_count
+# Network               : IPv4 $ipv4 ($mac)
+# Sudo Count            : $sudo_count cmd
 
 # End of Broadcast #"
