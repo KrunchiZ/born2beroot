@@ -1,7 +1,7 @@
 # Born2beRoot
 A project learning how to setup a VM using Oracle VirtualBox.
 
-### Content
+## Table Content
 
 1. [Resources](#resources)
 2. [Hypervisor](#hypervisor)
@@ -9,17 +9,17 @@ A project learning how to setup a VM using Oracle VirtualBox.
 4. [Tools](#some-of-the-tools-i-used-in-this-project)
 5. [Extra Services](#extra-services)
 
-#### Resources
+### Resources
 - [Subject PDF](en.subject.pdf "en.subject.pdf")
 - [System Info Display Script](monitoring.sh "monitoring.sh")
 
-#### Hypervisor
+### Hypervisor
 - Oracle VirtualBox
 
-#### Operating System
+### Operating System
 - Debian 6.1.140-1
 
-#### Some of the Tools I used in this project
+### Some of the Tools I used in this project
 
 | Commands / Tools         | What for                        |
 | ------------------------ | ------------------------------- |
@@ -50,5 +50,5 @@ A project learning how to setup a VM using Oracle VirtualBox.
 | deluser / delgroup       | Delete new user / group         |
 | lighttpd / mariadb / php | Wordpress
 
-##### Extra Services
+### Extra Services
 - NetData
