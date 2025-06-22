@@ -18,7 +18,7 @@ I made a bash script that display system info every 10 minutes and a localhost W
 
 ### Operating System
 
-- Debian 6.1.140-1
+- Linux Debian 6.1.140-1
 
 ### Some of the Tools I used in this project
 
