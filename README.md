@@ -6,20 +6,18 @@ I made a bash script that display system info every 10 minutes and a localhost W
 
 ## Table Content
 
-1. [Resources](#resources)
-2. [Hypervisor](#hypervisor)
-3. [OS](#operating-system)
-4. [Tools](#some-of-the-tools-i-used-in-this-project)
-5. [Extra Services](#extra-services)
-
-### Resources
-- [Subject PDF](en.subject.pdf "en.subject.pdf")
-- [System Info Display Script](monitoring.sh "monitoring.sh")
+1. [Hypervisor](#hypervisor)
+2. [OS](#operating-system)
+3. [Tools](#some-of-the-tools-i-used-in-this-project)
+4. [Extra Services](#extra-services)
+5. [Resources](#resources)
 
 ### Hypervisor
+
 - Oracle VirtualBox
 
 ### Operating System
+
 - Debian 6.1.140-1
 
 ### Some of the Tools I used in this project
@@ -55,4 +53,12 @@ I made a bash script that display system info every 10 minutes and a localhost W
 | cron / crontab           | Set timer to commands / script  |
 
 ### Extra Services
+
 - NetData
+
+### Resources
+
+- [Subject PDF](en.subject.pdf "en.subject.pdf")
+- [System Info Display Script](monitoring.sh "monitoring.sh")
+- [Chlimous's guide](https://github.com/chlimous/42-born2beroot_guide)
+- [FurizAlex's guide](https://github.com/FurizAlex/B2BR-Guide)
