@@ -4,23 +4,20 @@ A project learning how to setup a VM using Oracle VirtualBox.
 ### Content
 
 1. [Resources](#resources)
-2. [OS](#operating-system)
-3. [Tools](#some-of-the-tools-i-used-in-this-project)
-4. [Extra Services](#extra-services)
-
-
+2. [Hypervisor](#hypervisor)
+3. [OS](#operating-system)
+4. [Tools](#some-of-the-tools-i-used-in-this-project)
+5. [Extra Services](#extra-services)
 
 #### Resources
 - [Subject PDF](en.subject.pdf "en.subject.pdf")
 - [System Info Display Script](monitoring.sh "monitoring.sh")
 
-
+#### Hypervisor
+- Oracle VirtualBox
 
 #### Operating System
-
-Debian 6.1.140-1
-
-
+- Debian 6.1.140-1
 
 #### Some of the Tools I used in this project
 
@@ -52,8 +49,6 @@ Debian 6.1.140-1
 | adduser / addgroup       | Add new user / group            |
 | deluser / delgroup       | Delete new user / group         |
 | lighttpd / mariadb / php | Wordpress
-
-
 
 ##### Extra Services
 - NetData
