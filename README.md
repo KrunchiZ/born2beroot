@@ -7,9 +7,7 @@ A project learning how to setup a VM using Oracle VirtualBox.
 2. [Operating System](#operating-system)
 3. [Tools I Used](#tools-i-used-in-this-project)
 
-##### Subject Doc
-
-[link](en.subject.pdf "born2beroot pdf")
+##### Subject Doc: [click here](en.subject.pdf "born2beroot pdf")
 
 ##### Operating System
 
