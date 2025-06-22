@@ -24,8 +24,8 @@ I made a bash script that display system info every 10 minutes and a localhost W
 
 ### Some of the Tools I used in this project
 
-| Commands / Tools         | What for                        |
-| ------------------------ | ------------------------------- |
+| **Commands / Tools**     | **What for**                    |
+| :----------------------- | :------------------------------ |
 | uname                    | OS Architecture & Kernel info   |
 | lscpu                    | Physical CPU count              |
 | nproc                    | Virtual CPU count               |
