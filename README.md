@@ -1,11 +1,21 @@
 # born2beroot
 A project learning how to setup a VM using Oracle VirtualBox.
 
-Subject Doc: [click here](en.subject.pdf "Born2beRoot PDF")
+### Content
 
-| OS | Debian 6.1.140-1 |
+1. [Subject PDF](#1)
+2. [Operating System](#2)
+3. [Tools I Used](#3)
 
-#### Tools I used in this project
+Subject Doc: [click here](en.subject.pdf "Born2beRoot PDF"){#1}
+
+{#2}
+| OS               |
+| ---------------- |
+| Debian 6.1.140-1 |
+
+#### Tools I used in this project {#3}
+
 | Commands / Tools      | What for                        |
 | --------------------- | ------------------------------- |
 | uname                 | OS Architecture & Kernel info   |
@@ -31,5 +41,5 @@ Subject Doc: [click here](en.subject.pdf "Born2beRoot PDF")
 | ssh                   | SecureShell (SSH)               |
 | ufw                   | Uncomplicated Firewall          |
 | hostnamectl           | Manage hostname                 |
-| adduser / addgroup / 
-deluser / delgroup      | Add or delete new user / group  |
+| adduser / addgroup    | Add new user / group            |
+| deluser / delgroup    | Delete new user / group         |
