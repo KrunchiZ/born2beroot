@@ -14,47 +14,47 @@ I made a bash script that display system info every 10 minutes and a localhost W
 
 ### Hypervisor
 
-- Oracle VirtualBox
+- *Oracle VirtualBox*
 
 ### Operating System
 
-- Linux Debian 6.1.140-1
+- *Linux Debian 6.1.140-1*
 
 ### Some of the Tools I used in this project
 
-| **Commands / Tools**     | **What for**                    |
-| :----------------------- | :------------------------------ |
-| uname                    | OS Architecture & Kernel info   |
-| lscpu                    | Physical CPU count              |
-| nproc                    | Virtual CPU count               |
-| free                     | RAM usage                       |
-| df                       | Disk usage                      |
-| mpstat (from sysstat)    | CPU usage                       |
-| who                      | Last boot time                  |
-| lslbk                    | Encrypted Logical Volume        |
-| ss                       | TCP connections                 |
-| users                    | Active users                    |
-| ip                       | IP and MAC address              |
-| su                       | Exec command as another user    |
-| sudo                     | Exec command with root power    |
-| sudo seq                 | Sudo command count              |
-| echo / printf            | Write to terminal               |
-| wall                     | Write to all opened terminal    |
-| grep                     | Find lines that contain keyword |
-| awk                      | Process a line                  |
-| bc                       | Perform arithmetic on string    |
-| systemctl                | Check system info               |
-| ssh                      | SecureShell (SSH)               |
-| ufw                      | Uncomplicated Firewall          |
-| hostnamectl              | Manage hostname                 |
-| adduser / addgroup       | Add new user / group            |
-| deluser / delgroup       | Delete new user / group         |
-| lighttpd / mariadb / php | Wordpress                       |
-| cron / crontab           | Set timer to commands / script  |
+| **Commands / Tools**       | **What for**                    |
+| :------------------------- | ------------------------------- |
+| *uname*                    | OS Architecture & Kernel info   |
+| *lscpu*                    | Physical CPU count              |
+| *nproc*                    | Virtual CPU count               |
+| *free*                     | RAM usage                       |
+| *df*                       | Disk usage                      |
+| *mpstat (from sysstat)*    | CPU usage                       |
+| *who*                      | Last boot time                  |
+| *lslbk*                    | Encrypted Logical Volume        |
+| *ss*                       | TCP connections                 |
+| *users*                    | Active users                    |
+| *ip*                       | IP and MAC address              |
+| *su*                       | Exec command as another user    |
+| *sudo*                     | Exec command with root power    |
+| *sudo seq*                 | Sudo command count              |
+| *echo / printf*            | Write to terminal               |
+| *wall*                     | Write to all opened terminal    |
+| *grep*                     | Find lines that contain keyword |
+| *awk*                      | Process a line                  |
+| *bc*                       | Perform arithmetic on string    |
+| *systemctl*                | Check system info               |
+| *ssh*                      | SecureShell (SSH)               |
+| *ufw*                      | Uncomplicated Firewall          |
+| *hostnamectl*              | Manage hostname                 |
+| *adduser / addgroup*       | Add new user / group            |
+| *deluser / delgroup*       | Delete new user / group         |
+| *lighttpd / mariadb / php* | Wordpress                       |
+| *cron / crontab*           | Set timer to commands / script  |
 
 ### Extra Services
 
-- NetData
+- *NetData*
 
 ### Resources
 
