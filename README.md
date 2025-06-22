@@ -3,18 +3,17 @@ A project learning how to setup a VM using Oracle VirtualBox.
 
 ### Content
 
-1. [Subject PDF](#1)
-2. [Operating System](#2)
-3. [Tools I Used](#3)
+1. [Subject PDF](1)
+2. [Operating System](2)
+3. [Tools I Used](3)
 
-Subject Doc: [click here](en.subject.pdf "Born2beRoot PDF"){#1}
+Subject Doc: [click here](en.subject.pdf "Born2beRoot PDF"){1}
 
-{#2}
-| OS               |
-| ---------------- |
-| Debian 6.1.140-1 |
+#### Operating System {2}
 
-#### Tools I used in this project {#3}
+Debian 6.1.140-1
+
+#### Tools I used in this project {3}
 
 | Commands / Tools      | What for                        |
 | --------------------- | ------------------------------- |
